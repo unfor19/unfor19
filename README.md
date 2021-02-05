@@ -3,6 +3,12 @@
 
 ### Hi there 👋
 
+Checkout my website, [meirg.co.il](https://meirg.co.il), a central point to all of my blog posts and videos, the main topics are:
+
+- DevOps culture and best-practices
+- Cloud and On-Premise Architecture
+- Programming for both backend and frontend
+
 <!--
 **unfor19/unfor19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
