@@ -1,7 +1,3 @@
-### 🏆 GitHub Profile Trophies
-[![Meir's GitHub stats](https://github-readme-stats.vercel.app/api?username=unfor19&show_icons=true&theme=default)](https://meirg.co.il)
-
-
 ### Hi there 👋
 
 Checkout my website, [meirg.co.il](https://meirg.co.il), a central point to all of my blog posts and videos, the main topics are:
@@ -24,3 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Meir's GitHub stats](https://github-readme-stats.vercel.app/api?username=unfor19&show_icons=true&theme=default)](https://meirg.co.il)
