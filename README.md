@@ -1,5 +1,6 @@
 ### 🏆 GitHub Profile Trophies
-![trophies](https://github-profile-trophy.vercel.app/?username=unfor19)
+[![Meir's GitHub stats](https://github-readme-stats.vercel.app/api?username=unfor19&show_icons=true&theme=default)](https://meirg.co.il)
+
 
 ### Hi there 👋
 
